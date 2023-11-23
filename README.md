@@ -12,4 +12,4 @@
 
 #### Libraries Required: sklearn, pytorch, seaborn, torch, torchvision
 
-#### Blog Post:
+#### [Blog Post](https://medium.com/@sejeongmoon/exploration-on-fashion-mnist-dataset-classification-7c46170a0cca)
